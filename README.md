@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agopike
+- 👋 Hi, I’m @agostinopique
 - 👀 I’m interested in code, music, art!
 - 🌱 I’m currently learning full stack developement
 - 💞️ I’m looking to collaborate on any kind ofproject that can help me to increase my skills as a developer.
