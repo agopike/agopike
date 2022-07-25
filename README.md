@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agostinopique
-- 👀 I’m interested in code, music, art!
-- 🌱 I’m currently learning full stack developement
+- 👀 I’m interested in code, logic and music!
+- 🌱 I’m a Jr. Full Stack Developer
 - 💞️ I’m looking to collaborate on any kind of project that can help me to increase my skills as a developer.
 - 📫 How to reach me through githuib or linkedIn @Agostino pique
 
