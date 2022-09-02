@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agostinopique&label=Profile%20views&color=0e75b6&style=flat" alt="agostinopique" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agostinopique" alt="agostinopique" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agostinopique" alt="agostinopique" /></a> </p>
 
 - 🔭 I’m currently working on an [AirBnB clone](https://github.com/stefanocravotta/team-5-final-project-bnb)
 
