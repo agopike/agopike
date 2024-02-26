@@ -22,11 +22,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **improoving my abilities as a developer!**
 
-- 💬 Ask me about **Laravel, PHP, VueJs**
+- 💬 Ask me about **C#, .NET, React**
 
 - 📫 How to reach me **agostino.pique@gmail.com**
-
-- ⚡ Fun fact **I'm also a musician from a noble medievel family of Florence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
