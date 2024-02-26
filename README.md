@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agostinopique" alt="agostinopique" /></a> </p>
 
-- 🔭 I’m currently working on an [AirBnB clone](https://github.com/stefanocravotta/team-5-final-project-bnb)
+- 🔭 I’m currently working as as Software Developer for an italian company 
 
 - 🤝 I’m looking for help with **improoving my abilities as a developer!**
 
